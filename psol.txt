@@ -1,6 +1,0 @@
-Houses will begat jobs, jobs will begat houses.
-1 2 4 8 16 32
-3 369
-132 4 32767 -6114
-ioapew
-2 1 3 5 6 4
