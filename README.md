@@ -4,14 +4,14 @@ An overview of basic computer organization and design. Introduction to C program
 
 Goals: On completion of this course, students will demonstrate:
 * Thorough understanding of the organization of a computer.
-Thorough understanding of computer data representation.
-Basic understanding of machine language.
-Thorough understanding of processor architecture.
-Basic understanding of code optimization.
-Thorough understanding of memory hierarchy.
-Basic understanding of linking.
-Thorough understanding of exceptional control flow.
-Thorough understanding of virtual memory.
-Basic understanding of system-level I/O.
-Basic understanding of the C programming language.
-Basic understanding of assembly language programming
+* Thorough understanding of computer data representation.
+* Basic understanding of machine language.
+* Thorough understanding of processor architecture.
+* Basic understanding of code optimization.
+* Thorough understanding of memory hierarchy.
+* Basic understanding of linking.
+* Thorough understanding of exceptional control flow.
+* Thorough understanding of virtual memory.
+* Basic understanding of system-level I/O.
+* Basic understanding of the C programming language.
+* Basic understanding of assembly language programming
