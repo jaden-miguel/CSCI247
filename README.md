@@ -1,6 +1,6 @@
 # WWU CSCI247
 CSCI247: Computer Systems I
-An overview of basic computer organization and design. Introduction to C programming. Topics covered include data representation, Boolean algebra, machine language, instruction sets, processor architecture, multiprocessors, system-level I/O, instruction pipelining, and the memory hierarchy. Includes lab.
+* An overview of basic computer organization and design. Introduction to C programming. Topics covered include data representation, Boolean algebra, machine language, instruction sets, processor architecture, multiprocessors, system-level I/O, instruction pipelining, and the memory hierarchy. Includes lab.
 
 Goals: On completion of this course, students will demonstrate:
 * Thorough understanding of the organization of a computer.
